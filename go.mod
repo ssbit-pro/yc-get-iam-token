@@ -1,4 +1,4 @@
-module ycGetIAMToken
+module github.com/ssbit-pro/GetIAMToken
 
 go 1.21.1
 
