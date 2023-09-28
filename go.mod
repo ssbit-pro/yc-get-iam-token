@@ -1,4 +1,4 @@
-module getIAMToken
+module ycGetIAMToken
 
 go 1.21.1
 
